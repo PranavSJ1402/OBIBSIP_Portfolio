@@ -1,0 +1,182 @@
+.container{
+    background-color: rgb(0, 0, 0);
+}
+
+.Section{
+    color: rgb(255, 255, 255);
+    margin-bottom: 20%;
+    height: 20px;
+    justify-content: space-between;
+    display: flex;
+}
+.img{
+    margin-left: 10%;
+    margin-top: 2%;
+  }
+.about{
+    background-image: url(me3.jpg);
+    background-size:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    height: 500px;
+}
+.education{
+    
+    height: 500px;
+}
+.skills{
+    
+    height:340px;
+    
+}
+.contact{
+  height: 250px;
+}
+.cs{
+    margin-left: 3%;
+}
+.js{
+    margin-left: 3%;
+}
+pre3{
+text-align: center;
+}
+.lang{
+display: flex;
+}
+.Cl{
+margin-left: 10%;
+margin-right: 20%;
+}
+.FED{
+    margin-left: 1%;
+}
+.FE{
+    margin-left: 1%;
+    margin-top: 2%;
+display: flex;
+}
+p{
+    font-size: larger;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    justify-content: space-between;
+    margin-bottom: 50%;
+
+}
+p:hover{
+    border-bottom: 2px solid rgb(255, 255, 255);
+    width: fit-content;
+}
+
+p4{
+    font-size: larger;
+    color:rgb(255, 255, 255);
+}
+p4:hover{
+    color: black;
+    background-color: white;
+    width: fit-content;
+}
+p3{
+    color:rgb(255, 255, 255);
+    margin-left: 25%;
+}
+pre{
+    font-size:medium;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+}
+p2{
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    width: fit-content;
+    font-family: 'Shantell Sans', cursive;
+
+}
+p2:hover{
+    border-bottom: 2px solid rgb(255, 255, 255);
+    width: fit-content;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+p1{
+    font-size: larger;
+    color: rgb(255, 255, 255);
+}
+p1:hover{
+    background-color: white;
+    color: black;
+}
+h4{
+   margin-left: 40%;
+    font-size: xx-large;
+    color: rgb(244, 149, 6);
+    font-family: 'Shantell Sans', cursive;
+}
+h4:hover{
+    text-align: center;
+    border-bottom: 2px solid rgb(244, 181, 19);
+    width: fit-content;
+}
+
+.p{
+    margin-left: 40%;
+    font-size: large;
+    display: flex;
+}
+.ad{
+    margin-left: 40%;
+    display: flex;
+}
+a{
+    font-size: larger;
+}
+.m{
+    margin-left: 40%;
+    display: flex;
+}
+.ab{
+    color: white;
+    background-color: rgb(105, 32, 222);
+    height: auto;
+    font-size: larger;
+
+}
+h3{
+    font-size: x-large;
+    color: rgb(20, 203, 223);
+    margin-left: 5%;
+}
+h3:hover{
+    border-bottom: 2px solid rgb(20, 203, 223);
+    width: fit-content;
+}
+b:hover{
+   border-bottom: 2px solid yellow;
+    width: fit-content;
+}
+b{  
+    color: yellow;
+      font-size: x-large;
+}
+i:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.media{
+    display: flex;
+}
+.in{
+    margin-right: 3%;
+
+}
+
+
+
+
